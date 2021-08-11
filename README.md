@@ -1,5 +1,5 @@
 # befriendz
-==================
+==================  
 This project was built as a submission for Hackthrob 2021. Entered in the categories Most Heartfelt Hack and Best Domain Name
 
 ## What this project does
